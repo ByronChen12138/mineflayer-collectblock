@@ -12,6 +12,8 @@
 
 ---
 
+## Edited Version
+
 ## Showcase
 
 You can see a video of the plugin in action, [here.](https://youtu.be/5T_rcCnNnf4)
